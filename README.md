@@ -1,4 +1,4 @@
-# Table Calc (Obsidian plugin)
+# obsidian-table-calc
 
 Put a formula in any table cell; it calculates over the numbers above it in the same column.
 
