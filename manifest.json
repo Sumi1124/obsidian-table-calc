@@ -1,0 +1,9 @@
+{
+  "id": "table-calc",
+  "name": "Table Calc",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Spreadsheet-style calculations (mean, sum, median, min, max, count, stdev...) inside markdown tables.",
+  "author": "You",
+  "isDesktopOnly": false
+}

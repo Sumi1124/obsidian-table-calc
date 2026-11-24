@@ -1,0 +1,6 @@
+.table-calc-result {
+  font-weight: 600;
+  color: var(--text-accent);
+  background: var(--background-modifier-hover);
+}
+.table-calc-error { color: var(--text-error); }
