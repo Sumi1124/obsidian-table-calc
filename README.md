@@ -1,4 +1,4 @@
-# obsidian-table-calc
+# Table Stats Calc (Obsidian plugin)
 
 Put a formula in any table cell; it calculates over the numbers above it in the same column.
 
@@ -16,7 +16,7 @@ Functions: `sum mean average median min max count range var stdev product`
 - Numbers may include `,` `$` `%`.
 
 ## Install
-Copy this folder to `<your vault>/.obsidian/plugins/table-calc/`, then Settings → Community plugins → enable "Table Calc".
+Copy this folder to `<your vault>/.obsidian/plugins/table-stats-calc/`, then Settings → Community plugins → enable "Table Stats Calc".
 
 ## Row formulas (e.g. average across a row)
 Prefix a function with `row`: `=rowmean`, `=rowsum`, `=rowmax`... It averages the numbers to the left in the same row; blank cells are ignored, and an all-blank row shows `—`.
