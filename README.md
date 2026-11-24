@@ -1,4 +1,4 @@
-# Table Stats Calc (Obsidian plugin)
+# table-stats-calc (Obsidian plugin)
 
 Put a formula in any table cell; it calculates over the numbers above it in the same column.
 
